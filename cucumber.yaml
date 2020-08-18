@@ -1,0 +1,5 @@
+---
+default: -p chrome
+firefox: BROWSER=firefox
+chrome: BROWSER=chrome
+headless: BROWSER=headless
